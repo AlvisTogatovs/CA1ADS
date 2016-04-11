@@ -1,0 +1,9 @@
+illustrated how customers and orders are associated with each other. Orders are represented as a Set collection attribute orders in
+Customer, and a customer is represented as an attribute customer of Order that has to be
+an object in the class Customer. Thus, both sides of this one-to-many relationship have to
+be represented explicitly. Every mechanism that is created to address the object-relational
+mismatch issue has to solve this problem in one way or anotherllustrated how customers and orders are associated with each other. Orders are represented as a Set collection attribute orders in
+Customer, and a customer is represented as an attribute customer of Order that has to be
+an object in the class Customer. Thus, both sides of this one-to-many relationship have to
+be represented explicitly. Every mechanism that is created to address the object-relational
+mismatch issue has to solve this problem in one way or another
